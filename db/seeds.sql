@@ -1,8 +1,8 @@
 INSERT INTO department (name)
 VALUES ("Sales"),
-       ("Engineering"),
+       ("Managing"),
        ("Finance"),
-       ("Legal" );
+       ("Marketing");
 
 INSERT INTO role (title, salary, department_id)
 VALUES ("Sales Associate", 50000, 1),
@@ -11,7 +11,7 @@ VALUES ("Sales Associate", 50000, 1),
        ("Manager", 120000, 2),
        ("Account Manager", 150000, 3),
        ("Accountant", 120000, 3),
-       ("CEO", 250000, 4),
+       ("Assitant Marketing Rep", 120000, 4),
        ("Marketing Rep", 150000, 4);
     
        
