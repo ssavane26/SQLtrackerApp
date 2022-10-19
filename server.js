@@ -10,7 +10,7 @@ const connection = mysql.createConnection(
     password: process.env.DB_PW,
     database: process.env.DB_NAME,
   },
-  console.log("(•◡•)/ Hello!!!")
+  console.log("( ͡° ͜ʖ ͡°) Hello!!!")
 );
 
 // Main Menu function that unlocks the array of choices
@@ -20,7 +20,7 @@ function mainMenu() {
       {
         type: "list",
         name: "answer",
-        message: "Main Menu",
+        message: "Main Menu: Please Choose An Option ",
         choices: [
           "View All Employees",
           "Add Employee",
