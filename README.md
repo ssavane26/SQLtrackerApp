@@ -37,4 +37,6 @@ Then run this command to begin!
 # Video Demonstration of the application: 
  
 <br>
-[VID PLACEHOLDER]
+
+https://user-images.githubusercontent.com/106548100/196853087-dd081311-3eb3-4d15-ae89-c517adebefeb.mp4
+
