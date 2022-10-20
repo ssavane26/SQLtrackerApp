@@ -40,3 +40,5 @@ Then run this command to begin!
 
 https://user-images.githubusercontent.com/106548100/196853087-dd081311-3eb3-4d15-ae89-c517adebefeb.mp4
 
+## GitHub
+<a href="https://github.com/ssavane26">Check out the rest of my repo as weell if you'd like!!!!</a>
