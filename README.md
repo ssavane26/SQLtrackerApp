@@ -32,6 +32,8 @@ Please run the following command to install required dependencies
 Then run this command to begin!
 <pre><code> npm start </code> </pre>
 
+<img src= "Assets\sqltracker image.png" width="800">
+
 # Video Demonstration of the application: 
  
 <br>
